@@ -1,0 +1,21 @@
+// Skill Images
+export { default as Bootstrap } from "./images/bootstrap.png";
+export { default as CPP } from "./images/cpp.png";
+export { default as CSS } from "./images/css3.png";
+export { default as Figma } from "./images/figma.png";
+export { default as Firebase } from "./images/firebase.png";
+export { default as Git } from "./images/git.png";
+export { default as HAML } from "./images/haml.png";
+export { default as HTML } from "./images/html5.png";
+export { default as Java } from "./images/java.jpg";
+export { default as JavaScript } from "./images/javascript.png";
+export { default as MATLAB } from "./images/matlab.png";
+export { default as Node } from "./images/nodejs.png";
+export { default as Python } from "./images/python.png";
+export { default as react } from "./images/react.png";
+export { default as SASS } from "./images/sass.png";
+export { default as Tailwind } from "./images/tailwind.svg";
+export { default as Django } from "./images/django.png";
+export { default as Mongo } from "./images/mongodb.png";
+export { default as ts } from "./images/ts.png";
+export { default as sp } from "./images/squarespace.png";
